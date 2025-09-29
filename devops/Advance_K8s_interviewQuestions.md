@@ -9,3 +9,5 @@
 8. What is a Service in Kubernetes?
 9. How does Kubernetes manage configuration?
 10. Describe the role of a Master node in Kubernetes.
+
+
